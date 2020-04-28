@@ -4,7 +4,7 @@
 title: Yi Su
 url:   I am a PhD student in the Department of Statistics and Data Science at Cornell University, advised by Professor Thorsten Joachims. I am supported by Bloomberg Data Science Ph.D. Fellowship.
 baseurl: #change it according to your repository name
-description: 
+description: PhD student at Cornell
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
