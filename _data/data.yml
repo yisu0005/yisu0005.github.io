@@ -83,10 +83,15 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
+      - title:  "Off-policy Bandits with Deficient Support"
+        # link: "https://arxiv.org/pdf/2002.07729.pdf"
+        authors: Noveen Sachdeva*, Yi Su*, Thorsten Joachims
+        conference: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020"
+
       - title: "CAB: Continuous Adaptive Blending for Policy Evaluation and Learning"
         link: "https://arxiv.org/pdf/1811.02672.pdf"
         authors: Yi Su*, Lequn Wang*, Michele Santacatterina, Thorsten Joachims
-        conference: International Conference on Machine Learning, 2019
+        conference: International Conference on Machine Learning (ICML), 2019
 
       - title: "Learning from Logged Bandit Feedback of Multiple Loggers"
         link: "https://www.cs.cornell.edu/people/tj/publications/su_etal_18a.pdf"
@@ -103,10 +108,6 @@ publications:
         authors: Yi Su, Pavithra Srinath, Akshay Krishnamurthy
         conference: "In Submission"
 
-      - title:  "Off-policy Bandits with Deficient Support"
-        # link: "https://arxiv.org/pdf/2002.07729.pdf"
-        authors: Noveen Sachdeva*, Yi Su*, Thorsten Joachims
-        conference: "In Submission"
 
 
 experiences:
@@ -115,6 +116,9 @@ experiences:
       company: Microsoft Research NYC
       details: |
         Working with Miro Dudik and Akshay Krishnamurthy on off-policy evaluation and learning for contextual bandit.
+
+services:
+    - role: Conference Reviewer for: ICML (2019-2020), NeurIPS (2019-2020), AAAI (2020)
     # - role: Senior Software Engineer
     #   time: 2014 - 2015
     #   company: Google, London
