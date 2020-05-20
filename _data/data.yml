@@ -118,7 +118,7 @@ experiences:
         Working with Miro Dudik and Akshay Krishnamurthy on off-policy evaluation and learning for contextual bandit.
 
 services:
-    - role: Conference Reviewer for: ICML (2019-2020), NeurIPS (2019-2020), AAAI (2020)
+    - role: "Conference Reviewer for: ICML (2019-2020), NeurIPS (2019-2020), AAAI (2020)"
     # - role: Senior Software Engineer
     #   time: 2014 - 2015
     #   company: Google, London
