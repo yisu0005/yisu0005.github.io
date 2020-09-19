@@ -137,8 +137,10 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
   
+  [fontcss]
+  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
   
@@ -1283,6 +1285,8 @@ def procfile(f):
   # Get the file started with the firstbit.
   out(f.outf, f.conf['firstbit'])
 
+  out(f.outf, f.conf['fontcss'])
+  
   if not nodefaultcss:
     out(f.outf, f.conf['defaultcss'])
 
