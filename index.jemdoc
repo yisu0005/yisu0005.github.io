@@ -3,24 +3,33 @@
   <td align="left">
   <p> <font size="+3">Yi Su </font> 
   <img src="img/yi2.jpg" height="66" width="66" />
-    <br /><br /> PhD student at Cornell University
-    <br /><br /> Department of Statistics and Data Science 
     <br /><br /> Email: <a href="mailto:ys756@cornell.edu">ys756@cornell.edu</a>
   </td></tr></table>}}
-== About Me
-I am a PhD student in the Department of Statistics and Data Science at Cornell University, advised by Professor [http://www.cs.cornell.edu/people/tj/ Thorsten Joachims]. 
-I am supported by Bloomberg Data Science Ph.D. Fellowship.
 
-Previously, I received my BSc (Honors) in Mathematics from Nanyang Technological University in the beautiful Singapore. 
+== About Me
+I recently obtained my PhD in Statistics from Cornell University, advised by Professor [http://www.cs.cornell.edu/people/tj/ Thorsten Joachims]. Prior to that, I received my BSc (Honors) in Mathematics from Nanyang Technological University in the beautiful Singapore. 
 During my undergraduate years, I spent a summer at University of California, Berkeley and a year at the Department of Statistics and Applied Probability, National University of Singapore. 
 In Spring 2019, I worked as a Research Intern at the Machine Learning Group at Microsoft Research NYC, advised by [https://www.microsoft.com/en-us/research/people/mdudik/ Miro Dudik] and [https://people.cs.umass.edu/~akshay/ Akshay Krishnamurthy]. In Summer 2020, I worked as a Research Intern at Bloomberg AI. 
 
 I am interested in machine learning methods, algorithms, and systems. Speciﬁcally I am interested in learning from user behavioral data and implicit feedback in search engines, recommender systems and market platforms. My current interest lies in oﬀ-policy evaluation and learning in contextual bandits and reinforcement learning.
 
+I will be a PostDoctoral Scholar at UC Berkeley starting September 2021, working with Professor [http://people.eecs.berkeley.edu/~svlevine/ Sergey Levine] within the [https://bair.berkeley.edu/ BAIR] lab. 
 
 
-== Publications
-=== Conference
+
+== Preprints and Publications
+
+- *Optimizing Rankings for Recommendation in Matching Markets*
+\n Yi Su, Magd Bayoumi, Thorsten Joachims
+\n [https://arxiv.org/pdf/2106.01941.pdf \[PDF\]]  Preprint
+
+- *Online Adaptation to Label Distribution Shift*
+\n Ruihan Wu, Chuan Guo, Yi Su, Kilian Q Weinberger
+\n [https://arxiv.org/pdf/2107.04520.pdf \[PDF\]]  Preprint 
+
+- *Recommendations as Treatments*
+\n Thorsten Joachims, Ben London, Yi Su, Adith Swaminathan, Lequn Wang
+\n (to appear in) A.I.Magazine 
 
 - *Doubly robust off-policy evaluation with shrinkage*
 \n Yi Su, Maria Dimakopoulou, Akshay Krishnamurthy, Miroslav Dudik
@@ -39,19 +48,34 @@ I am interested in machine learning methods, algorithms, and systems. Speciﬁca
 \n Yi Su\*, Lequn Wang\*, Michele Santacatterina, Thorsten Joachims
 \n [https://arxiv.org/pdf/1811.02672.pdf \[PDF\]] International Conference on Machine Learning (ICML), 2019
 
-=== Workshop
+
 - *Learning from Logged Bandit Feedback of Multiple Loggers*
 \n Yi Su, Aman Agarwal, Thorsten Joachims
 \n [https://www.cs.cornell.edu/people/tj/publications/su_etal_18a.pdf \[PDF\]] CausalML Workshop at the International Conference on Machine Learning (CausalML), 2018
 
 
+== Talks
+- *Off-policy Evaluation and Learning for Interactive Systems*
+\n Invited talk at SIGIR'21 Workshop on Causality Search and Recommendation, June 2021.
+\n Invited talk at SIGIR'21 Workshop on Deep Reinforcement Learning for Information Retrieval, June 2021. 
+
+
+- *Adaptive Estimator Selection for Off-policy Evaluation*
+\n Netflix Research Seminar, June 2021.
+\n RL Theory Virtual Seminar, March 2021.
+
+- *Off-policy Bandits with Deficient Support*
+\n Bloomberg AI, August 2020.
+
 
 == Service
 === Conference Reviewing
-- International Conference on Machine Learning (ICML), 2019, 2020
-- Neural Information Processing Systems (NeurIPS), 2019, 2020
+- International Conference on Machine Learning (ICML), 2019, 2020 (top reviewer), 2021 (expert reviewer)
+- Neural Information Processing Systems (NeurIPS), 2019, 2020, 2021
 - Conference on Artiﬁcial Intelligence (AAAI), 2020, 2021
 - International Conference on Learning Representations (ICLR), 2021
 - NeurIPS Workshop: Oﬄine Reinforcement Learning, 2020
+
 === Program Committee
 - ICML Workshop: Theoretical Foundations of Reinforcement Learning, 2020
+- ICML Workshop: Reinforcement Learning Theory, 2021
