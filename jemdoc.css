@@ -56,7 +56,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #5ea85e;
+	color: #2E86C1;
 	text-decoration: none;
 	font-weight: bold;
 }
@@ -118,7 +118,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #abcdef;
+	color: #2E86C1;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -129,7 +129,7 @@ h1, h2, h3 {
 
 
 h1 {
-	color: #abcdef;
+	color: #2E86C1;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
